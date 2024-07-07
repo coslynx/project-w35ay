@@ -1,0 +1,7 @@
+id,title,category,content,posted_at
+1,"Introduction to Reddit Bot","Discussion","Welcome to the Reddit Bot project! This bot is designed to automate posting on the platform and assist in engaging with users. Stay tuned for more updates!","2023-09-01 08:00:00"
+2,"Scheduled Posting Feature","Feature","You can now schedule posts at specific times for optimal visibility. Set up recurring posts for regular updates.","2023-09-02 10:00:00"
+3,"Content Management Feature","Feature","Organize and store content to be posted easily. Categorize and prioritize posts effortlessly.","2023-09-03 12:00:00"
+4,"Engagement Tools Feature","Feature","Automatically respond to comments and messages. Track user engagement and provide analytics for post performance.","2023-09-04 14:00:00"
+5,"Customization Options Feature","Feature","Personalize bot settings for specific subreddit requirements. Choose post formats, titles, and images for each submission.","2023-09-05 16:00:00"
+6,"Moderation Assistance Feature","Feature","Monitor subreddit rules and guidelines for compliance. Flag inappropriate content and notify moderators for quick action.","2023-09-06 18:00:00"
